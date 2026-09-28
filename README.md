@@ -1,6 +1,6 @@
 # Hi, I'm Arni 👋
 
-I'm a Data Analyst with a background in software engineering.
+I'm a Data Analyst from PH with a background in software engineering.
 
 I have professional experience working with **SQL, Python, data visualization, e-commerce data, and automation**. I'm currently expanding into **statistical analysis, forecasting, simulation, and machine learning** through personal projects.
 
