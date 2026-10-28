@@ -68,4 +68,5 @@ I'm currently focusing on expanding my skills in:
 - Data science and statistical analysis
 - Machine learning and natural language processing
 - Time series forecasting
+- RAGs and LLMs
 - Python-based data analysis and automation
